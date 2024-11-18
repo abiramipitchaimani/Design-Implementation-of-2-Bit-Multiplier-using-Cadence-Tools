@@ -81,8 +81,8 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![vlsi62](https://github.com/user-attachments/assets/856fe3bc-14a3-40a5-9e80-3dc86a2632fa)
 
+![vlsi613](https://github.com/user-attachments/assets/983a5b0f-d849-41c5-bceb-55a4bbfe27ee)
 
  
 
@@ -97,7 +97,6 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 ![vlsi613](https://github.com/user-attachments/assets/983a5b0f-d849-41c5-bceb-55a4bbfe27ee)
-
 
 
 
