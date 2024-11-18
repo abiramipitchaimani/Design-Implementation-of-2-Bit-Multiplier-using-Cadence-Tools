@@ -48,7 +48,7 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![vlsi61](https://github.com/user-attachments/assets/1678b6be-7e02-48c5-8143-1088735740ac)
+![vlsi611](https://github.com/user-attachments/assets/1a71a85c-9325-4ce9-87d2-1fe23f915c7d)
 
 
  
@@ -96,8 +96,8 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
+![vlsi613](https://github.com/user-attachments/assets/983a5b0f-d849-41c5-bceb-55a4bbfe27ee)
 
-![vlsi62](https://github.com/user-attachments/assets/4b67b239-8bc4-4fb7-bdac-c8e4e55d5f90)
 
 
 
